@@ -1,97 +1,99 @@
 [[Python]]
-arch = "i686"
-git-tree-sha1 = "8e69057cd982c7eb79e9ae92094c98cf7ed9f9eb"
-libc = "musl"
+arch = "aarch64"
+git-tree-sha1 = "42660b43f3ac51d89c7f6a87d34f792713eb7d24"
+libc = "glibc"
 os = "linux"
 
     [[Python.download]]
-    sha256 = "91b542dde1756866bd27b638042ae0cb94cff33efc398bcff5f277579ebd45a5"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.i686-linux-musl.tar.gz"
+    sha256 = "7b1c4ec36b7fd1949a013579b89c9023d1d8bc007d0faaa6e508305177cfdf73"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.aarch64-linux-gnu.tar.gz"
 [[Python]]
 arch = "aarch64"
-git-tree-sha1 = "14f5df538e3c3839f895d241e3386518e416ac11"
+git-tree-sha1 = "ffe7f7d897a9ee71500809be7e8cb575cb46336a"
 libc = "musl"
 os = "linux"
 
     [[Python.download]]
-    sha256 = "641278c252bb7f133009cbfdee0c079614b25e1e2c3615622d6c0ccba7b880ba"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.aarch64-linux-musl.tar.gz"
+    sha256 = "5e04d0d363c7062f6996753c4dce0eca0487d7f39c878f443db260d45bc7236b"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.aarch64-linux-musl.tar.gz"
 [[Python]]
 arch = "armv7l"
-git-tree-sha1 = "43264a966e519b03a0d1f410508dfd064cf1f7ce"
+call_abi = "eabihf"
+git-tree-sha1 = "4cac5a7b8c49face62e3ab6a60d8b2dd2d0cf8df"
 libc = "glibc"
 os = "linux"
 
     [[Python.download]]
-    sha256 = "163d79b16bd4469e2995fa20ef8718512ae61f3710589f69413040caae9c7626"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "c977ac1137ed78d29ac51bd12eb3cd119e6d0d5a752acabc7568fd7d9373b7f8"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.armv7l-linux-gnueabihf.tar.gz"
 [[Python]]
 arch = "armv7l"
-git-tree-sha1 = "cf645b8f76afa80e50b37e49fe13a4faede0fd21"
+call_abi = "eabihf"
+git-tree-sha1 = "ff56bfac1dc85af598f102c6b8712b953aac1e73"
 libc = "musl"
 os = "linux"
 
     [[Python.download]]
-    sha256 = "d09d3f20d176c9181b945be9655b672063a34a427a355b4f7a5fb6621dc4bacf"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "5705837387cf3ede7908fa8274afc1c14bcdae5ad930de092ba7500a9027e9eb"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.armv7l-linux-musleabihf.tar.gz"
 [[Python]]
 arch = "i686"
-git-tree-sha1 = "a5b89664579ddd081c046e7354054343eaa682e0"
+git-tree-sha1 = "20cc4611be2f2d86f267fe7bcb484ca2905bbe7a"
 libc = "glibc"
 os = "linux"
 
     [[Python.download]]
-    sha256 = "8d02adc1fdb2e264abc0d7cd9515bbb5d692c80c649aafacff5db3a743a5de6c"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.i686-linux-gnu.tar.gz"
+    sha256 = "ffee4188c0cd6b2d452d97406f53ab8116a912257a9ea22112e50cf6e0321f9a"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.i686-linux-gnu.tar.gz"
 [[Python]]
-arch = "x86_64"
-git-tree-sha1 = "4b2d2485eea05e885dce45b04634bcd8123fd20c"
-libc = "glibc"
+arch = "i686"
+git-tree-sha1 = "18c6093b0faf4cfd211787000e3e6ea5f3a3ed27"
+libc = "musl"
 os = "linux"
 
     [[Python.download]]
-    sha256 = "7945d20adff171394d9afb20a8f1948500cf084d9e3e37453980d4e4bce5e1a7"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "78e217181a98e75ef64a0eeb4569b394742475994914d5bc25f053f48eacffab"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.i686-linux-musl.tar.gz"
 [[Python]]
 arch = "powerpc64le"
-git-tree-sha1 = "7dd10426447579aeb14b07ed07c1a18f20747719"
+git-tree-sha1 = "161f52620ff84fde69f334f622b05d8d272025f3"
 libc = "glibc"
 os = "linux"
 
     [[Python.download]]
-    sha256 = "3f8a62f1ef95f9a12947ead873ec3ed56f9e41501a5107ce2893f600c197bf73"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "2f43c11d23be7e40f5a7209b26eaf87de699a75ef4051f6be8a0c227428109f1"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.powerpc64le-linux-gnu.tar.gz"
 [[Python]]
 arch = "x86_64"
-git-tree-sha1 = "13111f42fab211954bdcd006a2239669965a96b2"
+git-tree-sha1 = "2fd81f0f9ae29976ee536388339843045f5f90a3"
 os = "macos"
 
     [[Python.download]]
-    sha256 = "658e7762edf56d6c36d2c8ba6e69352476be9763262de05007e5aeb5ed96cdb1"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.x86_64-apple-darwin14.tar.gz"
+    sha256 = "355cf976c1d96d1bcfa6485e67ac47ffc3eddd243e375cdcb7229b56e6e48df5"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.x86_64-apple-darwin.tar.gz"
 [[Python]]
-arch = "aarch64"
-git-tree-sha1 = "133aa7722d4c0e8a36a294d4d78785cb5ef19763"
+arch = "x86_64"
+git-tree-sha1 = "4dcd8a52e092c1e82cef8e0c0ed138b30c4cd17b"
 libc = "glibc"
 os = "linux"
 
     [[Python.download]]
-    sha256 = "1c7e7e100672a3f5fbc4258810a4331a01b58269f7ed21e04574651971d7442b"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "7932f9524446515ad07d0f627b9ddd127b3eb549630c7e5af5a291bb9acd3c39"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.x86_64-linux-gnu.tar.gz"
 [[Python]]
 arch = "x86_64"
-git-tree-sha1 = "3328bfffd50723b2fcbeeb5864463e04ca1c1b3e"
-os = "freebsd"
-
-    [[Python.download]]
-    sha256 = "7e7a026e0c256b81de3410a747cff513f0038d336f69a93837b257aa81df6c59"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.x86_64-unknown-freebsd11.1.tar.gz"
-[[Python]]
-arch = "x86_64"
-git-tree-sha1 = "773fa29b3005f8a59c5a3647f085b293b600f9ee"
+git-tree-sha1 = "85dbe079c2637409ef4a9928d50cf287fd966a04"
 libc = "musl"
 os = "linux"
 
     [[Python.download]]
-    sha256 = "fa3eb555b7a5df70b44ecfc90c10b8a9093eb2a725d25a4cd6ea76aa9ebd1394"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+3/Python.v3.8.1.x86_64-linux-musl.tar.gz"
+    sha256 = "360092a5056867b5fd54649c2e8b22fe08ec2b2ebeb358653dabffe7c6e4115b"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.x86_64-linux-musl.tar.gz"
+[[Python]]
+arch = "x86_64"
+git-tree-sha1 = "9d0541244bb7236c794cee50aea369e5e7b36bf6"
+os = "freebsd"
+
+    [[Python.download]]
+    sha256 = "5f5210548a1604f139dae6c5a87447251875ca319c3218af927de2bb8d4d0528"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.8.1+4/Python.v3.8.1.x86_64-unknown-freebsd.tar.gz"
