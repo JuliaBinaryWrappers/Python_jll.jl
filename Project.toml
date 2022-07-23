@@ -1,6 +1,6 @@
 name = "Python_jll"
 uuid = "93d3a430-8e7c-50da-8e8d-3dfcfb3baf05"
-version = "3.8.8+0"
+version = "3.8.8+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -17,6 +17,6 @@ Libffi_jll = "e9f186c6-92d2-5b65-8a66-fee21dc1b490"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-Bzip2_jll = "=1.0.6"
-Expat_jll = "2.2.7"
-Libffi_jll = "~3.2.1"
+Bzip2_jll = "1.0.8"
+Expat_jll = "2.2.10"
+Libffi_jll = "~3.2.2"
