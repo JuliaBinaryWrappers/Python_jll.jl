@@ -1,6 +1,6 @@
 name = "Python_jll"
 uuid = "93d3a430-8e7c-50da-8e8d-3dfcfb3baf05"
-version = "3.8.8+2"
+version = "3.8.8+3"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
