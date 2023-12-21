@@ -1,9 +1,8 @@
 name = "Python_jll"
 uuid = "93d3a430-8e7c-50da-8e8d-3dfcfb3baf05"
-version = "3.10.8+1"
+version = "3.10.13+0"
 
 [deps]
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -19,6 +18,9 @@ Libffi_jll = "e9f186c6-92d2-5b65-8a66-fee21dc1b490"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
+OpenSSL_jll = "3.0.12"
 Bzip2_jll = "1.0.8"
+Libdl = "1"
 Expat_jll = "2.2.10"
+Artifacts = "1"
 Libffi_jll = "~3.2.2"
