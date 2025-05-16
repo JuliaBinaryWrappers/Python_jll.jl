@@ -10,13 +10,13 @@ using Zlib_jll
 using XZ_jll
 using OpenSSL_jll
 JLLWrappers.@generate_wrapper_header("Python")
-JLLWrappers.@declare_library_product(libpython, "@rpath/libpython3.10.dylib")
+JLLWrappers.@declare_library_product(libpython, "@rpath/libpython3.11.dylib")
 JLLWrappers.@declare_executable_product(python)
 function __init__()
     JLLWrappers.@generate_init_header(Expat_jll, Bzip2_jll, Libffi_jll, SQLite_jll, LibMPDec_jll, Zlib_jll, XZ_jll, OpenSSL_jll)
     JLLWrappers.@init_library_product(
         libpython,
-        "lib/libpython3.10.dylib",
+        "lib/libpython3.11.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
