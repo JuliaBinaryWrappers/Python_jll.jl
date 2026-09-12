@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Python")
-JLLWrappers.@generate_main_file("Python", UUID("93d3a430-8e7c-50da-8e8d-3dfcfb3baf05"))
+JLLWrappers.@generate_main_file("Python", Base.UUID("93d3a430-8e7c-50da-8e8d-3dfcfb3baf05"))
 end  # module Python_jll
