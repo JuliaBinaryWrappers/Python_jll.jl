@@ -5,7 +5,7 @@ os = "macos"
 
     [[Python.download]]
     sha256 = "64799d54f9c7f5359cce9938c435640ecaec1825cb53fccba0d2261b4498cc4b"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.aarch64-apple-darwin.tar.gz"
 [[Python]]
 arch = "aarch64"
 git-tree-sha1 = "6a56adaf364367306e89911893b55b5fcab9f0ed"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "7c41927de81d420e2ee9ce38b851ded49c084227e2f74376104d4a672cd0a64c"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.aarch64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.aarch64-linux-gnu.tar.gz"
 [[Python]]
 arch = "aarch64"
 git-tree-sha1 = "b6ce86f5badd9f5f404a3e096818c3ff641db8b2"
@@ -23,7 +23,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "a4bcc8277abbb1fad742e6c4074685c548cf4ec6cdfca256e22b53709ac66724"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.aarch64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.aarch64-linux-musl.tar.gz"
 [[Python]]
 arch = "aarch64"
 git-tree-sha1 = "de2ab5c046cdddbcf4f9e9472bcdf34a776cec70"
@@ -31,7 +31,7 @@ os = "freebsd"
 
     [[Python.download]]
     sha256 = "6544e019c8f1474ffabc3d98232660b2df5b4c88ab39cdde48fb15699dcc60ec"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.aarch64-unknown-freebsd.tar.gz"
 [[Python]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -41,7 +41,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "8e47b97c96c9acee0f818bdf184a7ee536904ac53aa8e95e4761f34bec2298b6"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.armv6l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.armv6l-linux-gnueabihf.tar.gz"
 [[Python]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -51,7 +51,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "c94ecb6ed547be348a495e113e5397ad61d43f3bc02717bc7bb94c80d4a1c6ee"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.armv6l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.armv6l-linux-musleabihf.tar.gz"
 [[Python]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -61,7 +61,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "94caa53c8d116b147911f7a8a419d492052a51171e31474e995603fab0379a82"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.armv7l-linux-gnueabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.armv7l-linux-gnueabihf.tar.gz"
 [[Python]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -71,7 +71,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "35fc56ad956f7c9c8a20fd57a82355437f0ce18e7621eb4e145fa55d61401f9b"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.armv7l-linux-musleabihf.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.armv7l-linux-musleabihf.tar.gz"
 [[Python]]
 arch = "i686"
 git-tree-sha1 = "be88a1f62f4e799d960c6062dd36cb0f2653629f"
@@ -80,7 +80,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "a21cedce3dbeebad993ccaeba1a62d54e3746a4164f0d720f28a1d4921a96449"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.i686-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.i686-linux-gnu.tar.gz"
 [[Python]]
 arch = "i686"
 git-tree-sha1 = "fe3f42ae84ed413e4d0204058bf5e3e9b86a7ec0"
@@ -89,7 +89,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "89644c2a08489833124cdfe53386688d403443cb721e38c017fe4632a73dfc39"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.i686-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.i686-linux-musl.tar.gz"
 [[Python]]
 arch = "powerpc64le"
 git-tree-sha1 = "a96c062fe3b3e1fbe0c6f3dd804a5a9b810a30fc"
@@ -98,7 +98,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "8e9f5ab84dc70f1ce896d51d015ac8aa30b471a297f58e78054051d1e6ac5405"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.powerpc64le-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.powerpc64le-linux-gnu.tar.gz"
 [[Python]]
 arch = "riscv64"
 git-tree-sha1 = "fec4e1e965a37e27ce6f648753328469bcbd15da"
@@ -107,15 +107,15 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "c62948f661a0128d9399242f682bd346b5ff7afe5f658f46a4157653dec2384d"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.riscv64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.riscv64-linux-gnu.tar.gz"
 [[Python]]
 arch = "x86_64"
-git-tree-sha1 = "4aadc0217d6f9153643e278ec511f0668d0a4f38"
+git-tree-sha1 = "d1139319f5bbeacc1fe321fd91b5b7f84e2fa1bf"
 os = "macos"
 
     [[Python.download]]
-    sha256 = "a577adb7a293f31da97a1cce8a8a15297fe7d6a3bfb1dd7b6f3ea3af4cd97fe0"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.x86_64-apple-darwin.tar.gz"
+    sha256 = "eb6cb9f2357a12ff43fbbb1056b6cb8761b445bdd5495c5ad37ec2abec39c900"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.x86_64-apple-darwin.tar.gz"
 [[Python]]
 arch = "x86_64"
 git-tree-sha1 = "fbdc28e7be9d923ab538bb16c36c07e24ddaf691"
@@ -124,7 +124,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "49bc5d2093d27fc2bce5ec9071cc276479866f84801efe5ecfc9a4b7bcdd086a"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.x86_64-linux-gnu.tar.gz"
 [[Python]]
 arch = "x86_64"
 git-tree-sha1 = "a36c05efa81d6c053fa23640c6a1a63c23a06eff"
@@ -133,7 +133,7 @@ os = "linux"
 
     [[Python.download]]
     sha256 = "b4a661c3554f7d1252c71f0817cdabc3ce0d6f014fc82f50a3909a8c78bdeabd"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.x86_64-linux-musl.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.x86_64-linux-musl.tar.gz"
 [[Python]]
 arch = "x86_64"
 git-tree-sha1 = "a9ec60d0366afdb04a6fad5d2a9b892da57f8041"
@@ -141,4 +141,4 @@ os = "freebsd"
 
     [[Python.download]]
     sha256 = "ec77e6cf086048029d83a55a3064243f0c1384dcfcd441222efd9e52a45a46f5"
-    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+0/Python.v3.12.15.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Python_jll.jl/releases/download/Python-v3.12.15+1/Python.v3.12.15.x86_64-unknown-freebsd.tar.gz"
